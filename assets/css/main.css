@@ -32,17 +32,6 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-body {
-    -webkit-text-size-adjust: none;
-    background-image: url('images/backgroundindex.png');
-    background-size: cover;      
-    background-repeat: no-repeat; 
-    background-position: center;  
-    background-attachment: fixed; 
-    margin: 0;                    
-    height: 100vh;                
-}
-
 
 ol, ul {
 	list-style: none;
@@ -109,6 +98,15 @@ input, select, textarea {
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
+         body {
+                -webkit-text-size-adjust: none;
+                background-image: url('images/backgroundindex.png');
+                background-size: cover;      
+                background-repeat: no-repeat; 
+                background-position: center;  
+                background-attachment: fixed; 
+                margin: 0;                    
+                 height: 100vh;                }
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
