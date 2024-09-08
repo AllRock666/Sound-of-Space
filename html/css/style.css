@@ -348,7 +348,7 @@ button {
 .image_1 {
     width: 100%;
     float: left;
-    background-image: url(../images/img-1.png);
+    background-image: url(../images/Interstellar.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -392,16 +392,6 @@ button {
     color: #141414;
     padding-top: 15px;
     text-transform: uppercase;
-}
-
-.arrival_text:after {
-    content: '';
-    position: absolute;
-    border: 2px solid #464646;
-    left: initial;
-    right: -20px;
-    width: 100px;
-    top: 48px;
 }
 
 .movie_main {
