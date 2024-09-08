@@ -34,14 +34,15 @@
 		}
 
 	body {
-		background: _palette(bg);
+	// Set a background image
+	background: url('images/backgroundindex.jpg') no-repeat center center fixed;
+	background-size: cover; // Ensures the image covers the whole background
 
-		// Stops initial animations until page loads.
-			&.is-preload {
-				*, *:before, *:after {
-					@include vendor('animation', 'none !important');
-					@include vendor('transition', 'none !important');
-				}
-			}
-
+	// Stops initial animations until the page loads.
+	&.is-preload {
+		*, *:before, *:after {
+			@include vendor('animation', 'none !important');
+			@include vendor('transition', 'none !important');
+		}
 	}
+}
