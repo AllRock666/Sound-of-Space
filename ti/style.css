@@ -96,6 +96,15 @@ body {
     left: 100px;
 }
 
+.t{
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+    position: relative;
+    left: 100px;
+}
+
 .why-section {
     background-color: #fff;
     padding: 20px;
