@@ -1,7 +1,10 @@
-# Sound of Space
+# FuturistFest 2024 X NASA
+Create Programs, Change The World
+#Our topic
+##Sound of space 
 
 ## Overview
-**Sound of Space** is an interactive web application designed to offer users an immersive experience by translating space phenomena into captivating soundscapes. The website allows users to explore the sounds associated with different celestial objects, space events, and scientific phenomena in a fun and engaging way.
+**Astral waves** is an interactive web application designed to offer users an immersive experience by translating space phenomena into captivating soundscapes. The website allows users to explore the sounds associated with different celestial objects, space events, and scientific phenomena in a fun and engaging way.
 
 You can visit the live website here: [Sound of Space](https://allrock666.github.io/Sound-of-Space/)
 
